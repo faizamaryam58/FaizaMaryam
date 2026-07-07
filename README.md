@@ -12,15 +12,13 @@ I'm a Cybersecurity student with a growing interest in Digital Forensics, Malwar
 
 ## 💻 Skills
 - Python
-- Java
-- C++
-- Git & GitHub
 - Kali Linux
 - Wireshark
 - FTK Imager
 - HxD
 - PEStudio
 - VirusTotal
+- Digital Forensics
 
 ## 📚 Certifications
 - ISO 27001 Lead Auditor
